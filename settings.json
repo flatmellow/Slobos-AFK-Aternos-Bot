@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "summersmp-eCJ7.aternos.me:19897",
+    "ip": "summersmp-eCJ7.aternos.me",
     "port": 19897,
     "version": "",
     "try-creative": false
