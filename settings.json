@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot2",
+  "name": "SloBro_99",
   "bot-account": {
-    "username": "AFK bot",
+    "username": "SloBro_99",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "summersmp-eCJ7.aternos.me",
-    "port": 19897,
-    "version": "",
+    "port": 25565,
+    "version": false,
     "try-creative": false
   },
   "position": {
